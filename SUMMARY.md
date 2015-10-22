@@ -1,8 +1,14 @@
 * [第一章：輸入與字串處理](chap1.md)
-  * [Trick 1.1 - sync_with_stdio](1.1/sync_with_stdio.md)
-  * [Trick 1.2 - stoi, atoi, stol, stoll](1.2/string_to_int.md)
-  * [Trick 1.3 - c_str](1.3/c_str.md)
-  * [Trick 1.4 - stringstream 大絕招](1.4/sstream.md)
-  * [Trick 1.5 - 不要用 strtok](1.5/strtok.md)
+    * [Trick 1.1 - sync_with_stdio](1.1/sync_with_stdio.md)
+    * [Trick 1.2 - stoi, atoi, stol, stoll](1.2/string_to_int.md)
+    * [Trick 1.3 - c_str](1.3/c_str.md)
+    * [Trick 1.4 - stringstream 大絕招](1.4/sstream.md)
+    * [Trick 1.5 - 不要用 strtok](1.5/strtok.md)
+    * [Trick 1.6 - eof](1.6/eof.md)
 * [第二章：數值轉換與存儲](chap2.md)
 * [第三章：序列處理](chap3.md)
+* [第四章：程序原則](chap4.md)
+
+<!--
+    * [Trick 4.1 - Akira-Shik 流](4.1/akira-shik.md)
+-->
