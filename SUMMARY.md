@@ -1,4 +1,8 @@
-* [第一章：輸入與字串處理](part1.md)
+* [第一章：輸入與字串處理](chap1.md)
   * [Trick 1.1 - sync_with_stdio](1.1/sync_with_stdio.md)
-  * [Trick 1.2 - 字串換成數字](1.2/string_to_int.md)
-
+  * [Trick 1.2 - stoi, atoi, stol, stoll](1.2/string_to_int.md)
+  * [Trick 1.3 - c_str](1.3/c_str.md)
+  * [Trick 1.4 - stringstream 大絕招](1.4/sstream.md)
+  * [Trick 1.5 - 不要用 strtok](1.5/strtok.md)
+* [第二章：數值轉換與存儲](chap2.md)
+* [第三章：序列處理](chap3.md)
