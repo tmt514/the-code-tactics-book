@@ -7,8 +7,14 @@
     * [Trick 1.6 - eof](1.6/eof.md)
 * [第二章：數值轉換與存儲](chap2.md)
 * [第三章：序列處理](chap3.md)
-* [第四章：程序原則](chap4.md)
-
+    * [Trick 3.1 - Partial sum](3.1/partial-sum.md)
+* [第五章：資料結構](chap5.md)
+    * [Trick 5.1 - BFS on Grid](5.1/bfs.md)
+* [第六章：程序原則](chap6.md)
+* [第 514 章：小品演算法](chap514.md)
+* [第 19937 章：亂數](chap19937.md)
+* [第 50216 章：高級技巧](chap50216.md)
+    
 <!--
     * [Trick 4.1 - Akira-Shik 流](4.1/akira-shik.md)
 -->
