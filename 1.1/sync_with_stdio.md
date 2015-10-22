@@ -12,3 +12,7 @@ std::cout.sync_with_stdio(false);
 ## Tip
 
 如果你發現還是 TLE 的話，可能是你的演算法太沒效率啦。這個方法只有在輸入/輸出量很大、你又堅持要用 cin 和 cout 的時候才會有顯著的效果。
+
+## 參考資料
+
+* http://en.cppreference.com/w/cpp/io/ios_base/sync_with_stdio
