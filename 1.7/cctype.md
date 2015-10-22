@@ -10,4 +10,5 @@ for (auto &&x : str) {
 
 ```c++
 transform(str.begin(), str.end(), str.begin(), toupper);
+//        first iter,  last iter, result iter, operator
 ```
