@@ -9,5 +9,5 @@ for (auto &&x : str) {
 ```
 
 ```c++
-transform(str.begin(), str.end(), toupper);
+transform(str.begin(), str.end(), str.begin(), toupper);
 ```
