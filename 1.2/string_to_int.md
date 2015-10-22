@@ -15,3 +15,7 @@ string s;
 cin >> s;
 int n = std::stoi(s, nullptr, 14);
 ```
+
+## Note
+
+* 只支援 2~36 進位，大小寫視為相同。
