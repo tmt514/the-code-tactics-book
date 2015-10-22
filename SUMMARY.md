@@ -10,6 +10,7 @@
     * [Trick 3.1 - Partial sum](3.1/partial-sum.md)
 * [第四章：圖與格點](chap4.md)
     * [Trick 4.1 - 方向陣列](4.1/direction-array.md)
+    * Trick 4.n - SCC
 * [第五章：資料結構](chap5.md)
     * [Trick 5.1 - BFS on Grid](5.1/bfs.md)
 * [第六章：編程原則](chap6.md)
