@@ -38,6 +38,7 @@
     * [Trick 7.1 - 巢狀迴圈](7.1/nested-loop.md)
     * [Trick 7.2 - 矩陣相乘](7.2/matrix-multiplication.md)
     * [Trick 7.3 - Top-down or bottom-up?](7.3/dp-direction.md)
+    * [Trick 7.4 - 輸出效率](7.4/stdout.md)
 * [第 514 章：小品演算法](episodes/chap514.md)
 * [第 19937 章：亂數](episodes/chap19937.md)
 * [第 50216 章：高級技巧](episodes/chap50216.md)
