@@ -19,6 +19,6 @@ bool cmp(const Point &A, const Point &B) const {
 std::sort(arr.begin(), arr.end(), cmp);
 ```
 
-## 正式的用法
+## 完整的用法
 
 其實比較函數在編譯時，會被包裝成一個比較類別，並且重載其「括弧」的運算子。
