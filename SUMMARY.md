@@ -15,6 +15,7 @@
     * [Trick 2.4 - __lg](2.4/lg.md)
     * [Trick 2.5 - __builtin_popcount](2.5/popcount.md)
     * [Trick 2.6 - 交換兩個數](2.6/swap.md)
+    * [Trick 2.7 - 輾轉相除法](2.7/gcd.md)
 * [第三章：序列處理](episodes/chap3.md)
     * [Trick 3.1 - 自定義比較函數排序](3.1/cmp.md)
     * [Trick 3.2 - Partial sum](3.2/partial-sum.md)
