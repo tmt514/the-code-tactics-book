@@ -26,6 +26,7 @@
     * [Trick 3.6 - 極角排序與貼兩次](3.6/radio-sort.md)
 * [第四章：圖與格點](episodes/chap4.md)
     * [Trick 4.1 - 方向陣列](4.1/direction-array.md)
+    * [Trick 4.2 - BFS 的佇列](4.2/grid-bfs-queue.md)
     * Trick 4.n - SCC
 * [第五章：資料結構](episodes/chap5.md)
     * [Trick 5.1 - BFS on Grid](5.1/bfs.md)
@@ -43,6 +44,8 @@
     * [Trick 7.3 - Top-down or bottom-up?](7.3/dp-direction.md)
     * [Trick 7.4 - 輸出效率](7.4/stdout.md)
 * [第 514 章：小品演算法](episodes/chap514.md)
+    * [Trick 514.1 - 尋找眾數](514.1/mode.md)
+    * [Trick 514.2 - 尋找名人問題](514.2/celebrity.md)
 * [第 19937 章：亂數](episodes/chap19937.md)
 * [第 50216 章：高級技巧](episodes/chap50216.md)
 * [第 ~ 章：建立你的信心](episodes/chap-earthwarm.md)
