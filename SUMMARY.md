@@ -29,6 +29,7 @@
 * [第五章：資料結構](episodes/chap5.md)
     * [Trick 5.1 - BFS on Grid](5.1/bfs.md)
     * [Trick 5.2 - Baby Step, Giant Step 折衷算法](5.2/sqrtn.md)
+    * [Trick 5.3 - Hare and Hound 尋找循環節](5.3/list-cycle.md)
 * [第六章：編程原則](episodes/chap6.md)
     * [Trick 6.1 - Akira-Shik 流](4.1/akira-shik.md)
     * [Trick 6.2 - using namespace std](4.2/using-namespace-std.md)
