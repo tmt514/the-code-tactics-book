@@ -2,6 +2,8 @@
 
 有事者，試競程。
 
+線上閱覽請點選[此處 GitBook 連結](https://tmt514.gitbooks.io/the-code-tactics-book/content/)
+
 本書秉持著「原則、例題、實戰」三要領，讓大家快速吸收各 Trick（撇步）之重點。
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
