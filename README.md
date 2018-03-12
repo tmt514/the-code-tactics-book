@@ -2,7 +2,7 @@
 
 有事者，試競程。
 
-線上閱覽請點選[此處 GitBook 連結](https://tmt514.gitbooks.io/the-code-tactics-book/content/)
+線上閱覽請點選[此處 GitBook 連結](https://tmt514.gitbooks.io/the-code-tactics-book/content/)。
 
 本書秉持著「原則、例題、實戰」三要領，讓大家快速吸收各 Trick（撇步）之重點。
 
